@@ -62,4 +62,30 @@ Introduction to Randomized Algorithms
   * students create their own random games or algorithms
   * eflection on how randomness can solve problems we can't predict
 
+Also, I used to run computer clubs in school where I had Python coding worksheets approximating pi with putting salami on a pizza and JavaScript coding worksheets simulating a genetic algorithm by ‘evolving’ emoji
+
+including historical people and events can make the subject come alive! 
+
+Stories of mathematicians and their discoveries add a human element, showing students how randomness has shaped science and society. For example:
+
+* `John von Neumann` introduce the Monte Carlo method and its origins during WWII.
+* `Pierre-Simon Laplace` explore his early work on probability theory.
+* `the Gambler’s Fallacy` use real-world anecdotes to teach why randomness can defy intuition.
+* `nature’s algorithms` highlight how randomness appears in evolution, weather patterns, or animal behavior.
+
+could frame the book with a storyline where students “join” historical figures on problem-solving adventures
+
+for example, a "time travel club" where students visit key moments in history
+
+`Laplace’s Probability Parlor` help Pierre-Simon Laplace win a game of chance by applying basic probability rules
+`Von Neumann’s Secret Lab` help in running the Monte Carlo method to estimate outcomes during wartime
+`Darwin’s Random Walk` explore how randomness drives evolution by simulating games with mutations and survival
+`Ada Lovelace’s Code Challenge` program a randomized algorithm on an “early” computer
+
+activities
+
+`physical games` create "random walks" by tossing a coin to decide steps in a grid, simulating molecular movement
+`historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
+`reflection points` highlight how historical events inspired modern concepts in randomness and computation
+
 
