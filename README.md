@@ -12,15 +12,14 @@ I have been thinking about writing a series books to introduce advanced mathemat
 
 ## the general ideas
 
-`Storytelling` weaving mathematical concepts into a narrative or adventure to make the abstract ideas relatable and fun
-`Visual Aids` use of diagrams, illustrations, and animations to clarify the mathematical
-`Interactive Elements` puzzles, experiments, and challenges to encourage hands-on learning
-`Gradual Progression` to break down complex ideas into simpler, age-appropriate steps
-`Applications` highlight real-world uses of the concepts to show their relevance
+* `Storytelling` weaving mathematical concepts into a narrative or adventure to make the abstract ideas relatable and fun
+* `Visual Aids` use of diagrams, illustrations, and animations to clarify the mathematical
+* `Interactive Elements` puzzles, experiments, and challenges to encourage hands-on learning
+* `Gradual Progression` to break down complex ideas into simpler, age-appropriate steps
+* `Applications` highlight real-world uses of the concepts to show their relevance
 
 ## algebraic aeometry
-Why?
-It's visually engaging — students can explore shapes, patterns, and the geometry of equations
+visually engaging — students can explore shapes, patterns, and the geometry of equations
 
 Concepts like intersections of curves (e.g., circles, lines, parabolas) are intuitive yet profound, offering a natural bridge between geometry and algebra.
 Great for fostering spatial reasoning and connecting abstract math to real-world phenomena (e.g., orbits, architecture)
@@ -28,8 +27,7 @@ Great for fostering spatial reasoning and connecting abstract math to real-world
 Challenges: Requires careful scaffolding to introduce algebra alongside geometric intuition
 
 ## randomized algorithms
-Why?
-It's fun and interactive — students can experiment with games, simulations, and probabilistic decision-making
+fun and interactive — students can experiment with games, simulations, and probabilistic decision-making
 
 Concepts like "guessing," "random walks," or "Monte Carlo methods" can be introduced through playful, hands-on activities
 
