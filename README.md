@@ -88,10 +88,19 @@ for example, a "time travel club" where students visit key moments in history
 `historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
 `reflection points` highlight how historical events inspired modern concepts in randomness and computation
 
-## background
+# background
 
 four characters, three girls and one boy, aged 12 to 14. The boy has autism, with alexithymia and prosopagnosia, with a special interest in mathematics, especially applied mathematics, probability and statistics. The boy is about 13 years old, enjoys reading encyclopedias, mathematics journals and is very precise about the meaning of words. One of the girls is his twin sister, neurotypical, with an interest in languages, art, fashion, literature, music and computing, learning mathematics but not as much as her brother. I am not sure of their names yet. The other two girls are also sisters, the elder sister aged about fifteen, with ADHD and hyperkinetic, always rushing around ‘stirring things up’ and making adventures out of everyday things. Often doing adventurous things like rockclimbing, welding, using windows instead of doors. She is very funny and recognises the boy’s strengths and accommodates his weaknesses of talking and recognising people, having him as a trusted advisor and giving him space to express himself. The other sister is about twelves but tries to act older like her sister, she can do things that her sister likes but not as well and hasn’t yet decided what she is interested in.
 
+## cast of characters
 
+distinct personalities and strengths to offer potential for storytelling and teaching. 
+
+Their dynamics could beautifully showcase the value of collaboration and diversity in problem-solving.
+
+`the boy` could stimulate the group's problem-solving efforts using his love of mathematical to uncover hidden patterns that help the group succeed in a challenge
+`the twin sister` could bring artistic and linguistic creativity to mathematical concepts, creating visual or poetic explanations for abstract ideas
+`the older sister` could introduce chaos and energy, using her adventurous spirit to inspire real-world experiments in bold, unconventional ways
+`he Younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
 
 
