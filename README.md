@@ -103,4 +103,17 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 * `the older sister` could introduce chaos and energy, using her adventurous spirit to inspire real-world experiments in bold, unconventional ways
 * `he Younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
 
+## connection between the mathematical and the artistic
+
+* Sophie Germain, for example, discovered mathematics aged thirteen and learned Classical Greek and Latin to help her passion, and corresponded with Gauss, Laplace, Legendre and others using a male pseudonym
+* Ada Lovelace learned mathematics at her mother’s insistence to stop her learning poetry like her father, Byron, and corresponded with British mathematicians of the day, including helping Charles Babbage to design and program their mechanical computer, based on her understanding of mathematics, language and the Jacquard loom card programming methods for making embroidered fabrics
+* Emmy Noether learned languages first and then studied mathematics with great determination at a time when women were banned from STEM subjects but made fantastic discoveries across modern number theory, geometry and physics partly due to her early training in languages and, of course, her brilliance and determination
+
+
+the historical mathematician could be mentors or inspirations for the characters
+
+* `Sophie Germain` might resonate with the twin sister, blending her love for language and mathematics
+* `Ada Lovelace` might inspire the younger sister to explore programming or pattern-making as a bridge between art and science
+* `Emmy Noether` might serve as a role model for the older sister’s determination and boundary-breaking spirit, showing how passion for learning can defy expectations
+
 
