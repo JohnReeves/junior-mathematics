@@ -101,7 +101,7 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 * `the boy` could stimulate the group's problem-solving efforts using his love of mathematical to uncover hidden patterns that help the group succeed in a challenge
 * `the twin sister` could bring artistic and linguistic creativity to mathematical concepts, creating visual or poetic explanations for abstract ideas
 * `the older sister` could introduce chaos and energy, using her adventurous spirit to inspire real-world experiments in bold, unconventional ways
-* `he Younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
+* `he younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
 
 ## connection between the mathematical and the artistic
 
