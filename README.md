@@ -82,10 +82,16 @@ for example, a "time travel club" where students visit key moments in history
 `Darwin’s Random Walk` explore how randomness drives evolution by simulating games with mutations and survival
 `Ada Lovelace’s Code Challenge` program a randomized algorithm on an “early” computer
 
-activities
+## activities
 
 `physical games` create "random walks" by tossing a coin to decide steps in a grid, simulating molecular movement
 `historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
 `reflection points` highlight how historical events inspired modern concepts in randomness and computation
+
+## background
+
+four characters, three girls and one boy, aged 12 to 14. The boy has autism, with alexithymia and prosopagnosia, with a special interest in mathematics, especially applied mathematics, probability and statistics. The boy is about 13 years old, enjoys reading encyclopedias, mathematics journals and is very precise about the meaning of words. One of the girls is his twin sister, neurotypical, with an interest in languages, art, fashion, literature, music and computing, learning mathematics but not as much as her brother. I am not sure of their names yet. The other two girls are also sisters, the elder sister aged about fifteen, with ADHD and hyperkinetic, always rushing around ‘stirring things up’ and making adventures out of everyday things. Often doing adventurous things like rockclimbing, welding, using windows instead of doors. She is very funny and recognises the boy’s strengths and accommodates his weaknesses of talking and recognising people, having him as a trusted advisor and giving him space to express himself. The other sister is about twelves but tries to act older like her sister, she can do things that her sister likes but not as well and hasn’t yet decided what she is interested in.
+
+
 
 
