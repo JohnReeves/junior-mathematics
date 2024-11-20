@@ -105,15 +105,49 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 
 ## connection between the mathematical and the artistic
 
-* Sophie Germain, for example, discovered mathematics aged thirteen and learned Classical Greek and Latin to help her passion, and corresponded with Gauss, Laplace, Legendre and others using a male pseudonym
-* Ada Lovelace learned mathematics at her mother’s insistence to stop her learning poetry like her father, Byron, and corresponded with British mathematicians of the day, including helping Charles Babbage to design and program their mechanical computer, based on her understanding of mathematics, language and the Jacquard loom card programming methods for making embroidered fabrics
-* Emmy Noether learned languages first and then studied mathematics with great determination at a time when women were banned from STEM subjects but made fantastic discoveries across modern number theory, geometry and physics partly due to her early training in languages and, of course, her brilliance and determination
+* `Sophie Germain` discovered mathematics aged thirteen and learned Classical Greek and Latin to help her passion, and corresponded with Gauss, Laplace, Legendre and others using a male pseudonym
+* `Ada Lovelace` learned mathematics at her mother’s insistence to stop her learning poetry like her father, Byron, and corresponded with British mathematicians of the day, including helping Charles Babbage to design and program their mechanical computer, based on her understanding of mathematics, language and the Jacquard loom card programming methods for making embroidered fabrics
+* `Emmy Noether` learned languages first and then studied mathematics with great determination at a time when women were banned from STEM subjects but made fantastic discoveries across modern number theory, geometry and physics partly due to her early training in languages and, of course, her brilliance and determination
 
 
-the historical mathematician could be mentors or inspirations for the characters
+## mentors and inspirations for the present day
 
 * `Sophie Germain` might resonate with the twin sister, blending her love for language and mathematics
 * `Ada Lovelace` might inspire the younger sister to explore programming or pattern-making as a bridge between art and science
 * `Emmy Noether` might serve as a role model for the older sister’s determination and boundary-breaking spirit, showing how passion for learning can defy expectations
 
+# tasks, 
+1. choose names for the characters
+2. show how the characters interact
+3. explore how to bring the historical into the narrative more concretely
+4. show small interactions way in the present day scenarios 
+5. show bigger interactions with the mathematicians from history
+6. provide a thread of motivation for visiting the historical figures
 
+
+1. Choosing Names for the Characters
+
+names that reflect the characters' personalities, inspired by history, art or science, or just random names
+
+* analytical names e.g. Isaac, Blaise
+* character names e.g. Felix
+* artistic names e.g. Clara, Aria, Lyra
+* adventurous names e.g. Zara, Freya, Nova
+* aspirational names e.g. Sophie, Ellie, Mina
+
+2. Character Interactions
+
+show teamwork, characters and growth in different scenarios
+
+* using probability to win a game or solve a mystery
+* interpreting clues through linguistic or artistic skills
+* physical activities as experiments or a randomised search
+* contributing in unexpected ways, gaining confidence
+
+3. Connecting Historical Figures
+
+show the motivation for visiting historical figures or just because, no particular reason
+
+* Solving a modern-day challenge by learning how a historical figure tackled a similar problem
+* Discovering a mysterious object or book that serves as a portal or guide to the past
+* A school project or competition that turns into an adventure
