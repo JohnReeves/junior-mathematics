@@ -77,16 +77,16 @@ could frame the book with a storyline where students “join” historical figur
 
 for example, a "time travel club" where students visit key moments in history
 
-`Laplace’s Probability Parlor` help Pierre-Simon Laplace win a game of chance by applying basic probability rules
-`Von Neumann’s Secret Lab` help in running the Monte Carlo method to estimate outcomes during wartime
-`Darwin’s Random Walk` explore how randomness drives evolution by simulating games with mutations and survival
-`Ada Lovelace’s Code Challenge` program a randomized algorithm on an “early” computer
+* `Laplace’s Probability Parlor` help Pierre-Simon Laplace win a game of chance by applying basic probability rules
+* `Von Neumann’s Secret Lab` help in running the Monte Carlo method to estimate outcomes during wartime
+* `Darwin’s Random Walk` explore how randomness drives evolution by simulating games with mutations and survival
+* `Ada Lovelace’s Code Challenge` program a randomized algorithm on an “early” computer
 
 ## activities
 
-`physical games` create "random walks" by tossing a coin to decide steps in a grid, simulating molecular movement
-`historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
-`reflection points` highlight how historical events inspired modern concepts in randomness and computation
+* `physical games` create "random walks" by tossing a coin to decide steps in a grid, simulating molecular movement
+* `historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
+* `reflection points` highlight how historical events inspired modern concepts in randomness and computation
 
 # background
 
@@ -98,9 +98,9 @@ distinct personalities and strengths to offer potential for storytelling and tea
 
 Their dynamics could beautifully showcase the value of collaboration and diversity in problem-solving.
 
-`the boy` could stimulate the group's problem-solving efforts using his love of mathematical to uncover hidden patterns that help the group succeed in a challenge
-`the twin sister` could bring artistic and linguistic creativity to mathematical concepts, creating visual or poetic explanations for abstract ideas
-`the older sister` could introduce chaos and energy, using her adventurous spirit to inspire real-world experiments in bold, unconventional ways
-`he Younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
+* `the boy` could stimulate the group's problem-solving efforts using his love of mathematical to uncover hidden patterns that help the group succeed in a challenge
+* `the twin sister` could bring artistic and linguistic creativity to mathematical concepts, creating visual or poetic explanations for abstract ideas
+* `the older sister` could introduce chaos and energy, using her adventurous spirit to inspire real-world experiments in bold, unconventional ways
+* `he Younger sister` curiosity and desire to emulate her older sister might lead her to discover her own interests as she helps solve challenges with the group
 
 
