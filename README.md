@@ -163,7 +163,7 @@ show the motivation for visiting historical figures or just because, no particul
 * Ada Lovelace introducing algebraic programming and punched cards
 * Emmy Noether introducing commutative algebra and baking cakes
   
-7. Story Thread
+6. Story Thread
    
 making a jacquard loom to make textiles for dress making
 
