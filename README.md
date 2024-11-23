@@ -116,7 +116,7 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 * `Ada Lovelace` might inspire the younger sister to explore programming or pattern-making as a bridge between art and science
 * `Emmy Noether` might serve as a role model for the older sister’s determination and boundary-breaking spirit, showing how passion for learning can defy expectations
 
-# tasks, 
+# task list
 1. choose names for the characters
 2. show how the characters interact
 3. explore how to bring the historical into the narrative more concretely
@@ -125,7 +125,8 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 6. provide a thread of motivation for visiting the historical figures
 
 
-1. Choosing Names for the Characters
+# tasks
+1. Character Names
 
 names that reflect the characters' personalities, inspired by history, art or science, or just random names
 
@@ -151,3 +152,25 @@ show the motivation for visiting historical figures or just because, no particul
 * Solving a modern-day challenge by learning how a historical figure tackled a similar problem
 * Discovering a mysterious object or book that serves as a portal or guide to the past
 * A school project or competition that turns into an adventure
+
+4. Small Interactions
+* showing autistic and adhd traits
+* showing deep interests and spiky profiles
+* showing hyperfocus and functional deficits
+
+5. Large Interactions
+* Sophie Germain introducing algebraic geometry and number theory
+* Ada Lovelace introducing algebraic programming and punched cards
+* Emmy Noether introducing commutative algebra and baking cakes
+  
+7. Story Thread
+   
+making a jacquard loom to make textiles for dress making
+
+* patterns from numbers
+* algorithms stored on punched cards
+* universal equations solved with punched cards
+
+making beautiful textiles
+
+
