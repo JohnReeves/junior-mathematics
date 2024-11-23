@@ -18,7 +18,7 @@ I have been thinking about writing a series books to introduce advanced mathemat
 * `Gradual Progression` to break down complex ideas into simpler, age-appropriate steps
 * `Applications` highlight real-world uses of the concepts to show their relevance
 
-## algebraic aeometry
+## algebraic geometry
 visually engaging — students can explore shapes, patterns, and the geometry of equations
 
 Concepts like intersections of curves (e.g., circles, lines, parabolas) are intuitive yet profound, offering a natural bridge between geometry and algebra.
@@ -38,7 +38,6 @@ Challenges: Abstract probability concepts may require extra effort to simplify a
 ## personal motivation
 * `algebraic geometry` for visual exploration and connecting mathematics to the physical world
 * `randomised algorithms` for something playful, surprising and technology-oriented
-
 
 ## outline of the randomised algorithms book
 
