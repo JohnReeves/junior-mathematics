@@ -109,12 +109,23 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 * `Ada Lovelace` learned mathematics at her mother’s insistence to stop her learning poetry like her father, Byron, and corresponded with British mathematicians of the day, including helping Charles Babbage to design and program their mechanical computer, based on her understanding of mathematics, language and the Jacquard loom card programming methods for making embroidered fabrics
 * `Emmy Noether` learned languages first and then studied mathematics with great determination at a time when women were banned from STEM subjects but made fantastic discoveries across modern number theory, geometry and physics partly due to her early training in languages and, of course, her brilliance and determination
 
-
 ## mentors and inspirations for the present day
 
 * `Sophie Germain` might resonate with the twin sister, blending her love for language and mathematics
 * `Ada Lovelace` might inspire the younger sister to explore programming or pattern-making as a bridge between art and science
 * `Emmy Noether` might serve as a role model for the older sister’s determination and boundary-breaking spirit, showing how passion for learning can defy expectations
+
+## making beautiful textiles
+
+i think i would imagine the autistic boy as less smiley and neater clothes, maybe more black less color, as the color would come from his thoughts. I was wondering about long hair for the twin sister, parting slightly to the left of center, maybe tied in bunches when she is do her art work. her art could complement the boy’s maths, by her drawing artistic curves, geometric shapes and fractals, and the boy working out the mathematics defining them :-)
+
+a costume idea for the twin sister provides a plot idea that would tie in the mathematics, creativity, history and the theme of neurodiversity: the adhd/hyperkinetic girl assembles a jacquard loom to make textiles for the twin-sister to make clothes with. the boy would help with the mathematics and the youngest girl could help with the programming. to help with this, the group could visit ada lovelace who wrote the first computer program for a mathematics algorthm, sophie germain who was very keen on algebraic geometry and number theory, and with emmy noether who was a brilliant mathematician and very keen on helping juniors develop their mathematical abilities. 
+
+The Jacquard loom is a centerpiece that is both historically significant and a  metaphor for weaving diverse talents together and the interactions with historical figures could deepen the plot:
+
+* `Sophie Germain` could encourage the twin sister to explore the artistic beauty of mathematical forms, showing how curves and shapes translate into textiles.
+* `Ada Lovelace` might inspire the youngest girl with her pioneering work in programming, offering insights into early algorithmic thinking.
+* `Emmy Noether` might guide the boy and the ADHD girl in understanding the mathematical framework behind weaving patterns, emphasizing teamwork and mentorship.
 
 # task list
 1. choose names for the characters
@@ -123,7 +134,6 @@ Their dynamics could beautifully showcase the value of collaboration and diversi
 4. show small interactions way in the present day scenarios 
 5. show bigger interactions with the mathematicians from history
 6. provide a thread of motivation for visiting the historical figures
-
 
 # tasks
 1. Character Names
@@ -171,6 +181,7 @@ making a jacquard loom to make textiles for dress making
 * algorithms stored on punched cards
 * universal equations solved with punched cards
 
-making beautiful textiles
+the theme combines the characters' unique strengths, historical figures and hands-on creativity
 
+exponential growth of knowledge through a love of learning, creativity and human connectedness
 
