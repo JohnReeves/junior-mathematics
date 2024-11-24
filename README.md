@@ -87,6 +87,14 @@ for example, a "time travel club" where students visit key moments in history
 * `historical challenges` solve problems the way early mathematicians might have—using dice, cards, or other random devices of their time
 * `reflection points` highlight how historical events inspired modern concepts in randomness and computation
 
+## some links
+- http://eniacinaction.com/docs/MonteCarloComputationAnalysis.pdf
+- https://ahf.nuclearmuseum.org/ahf/history/computing-and-manhattan-project/
+- https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e
+- https://www.lanl.gov/media/news/0412-maniac
+- https://www.tandfonline.com/doi/full/10.1080/00295450.2021.1956255#d1e147
+- https://towardsdatascience.com/from-punch-cards-to-chatgpt-42c2a09ac01a
+
 # background
 
 four characters, three girls and one boy, aged 12 to 14. The boy has autism, with alexithymia and prosopagnosia, with a special interest in mathematics, especially applied mathematics, probability and statistics. The boy is about 13 years old, enjoys reading encyclopedias, mathematics journals and is very precise about the meaning of words. One of the girls is his twin sister, neurotypical, with an interest in languages, art, fashion, literature, music and computing, learning mathematics but not as much as her brother. I am not sure of their names yet. The other two girls are also sisters, the elder sister aged about fifteen, with ADHD and hyperkinetic, always rushing around ‘stirring things up’ and making adventures out of everyday things. Often doing adventurous things like rockclimbing, welding, using windows instead of doors. She is very funny and recognises the boy’s strengths and accommodates his weaknesses of talking and recognising people, having him as a trusted advisor and giving him space to express himself. The other sister is about twelves but tries to act older like her sister, she can do things that her sister likes but not as well and hasn’t yet decided what she is interested in.
